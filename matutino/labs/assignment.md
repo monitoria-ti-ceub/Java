@@ -65,7 +65,7 @@
     x = 20;
     ```
 
-15. Crie `OlaCurso.java`, com classe pública `OlaCurso` e exiba o nome do curso em duas linhas.
+15. Crie `exec15`, com classe pública `exec15` e exiba o nome do curso em duas linhas.
 
 16. Escreva um programa que declare nome, semestre e status de matrícula e exiba os dados com `printf`.
 
